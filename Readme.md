@@ -1,7 +1,7 @@
 # ReadMe
 Bagaimana cara memanggil file yang ada di node?
 
-** Library **
+**Library**
 Library yang digunakan dalam project ini adalah sebagai berikut.
 ---
 Tabel 1. Library
