@@ -5,14 +5,16 @@
         "boxicons": "^2.1.1",
         "glightbox": "^3.1.0",
         "remixicon": "^2.5.0",
-        "swiper": "^8.0.0"
+        "swiper": "^8.0.0",
+        "validator": "^13.7.0"
     },
     "name": "mufam",
     "description": "Bagaimana cara memanggil file yang ada di node?",
     "version": "1.0.0",
-    "main": "index.js",
-    "devDependencies": {},
+    "main": "assets/js/main.js",
     "scripts": {
+        "start": "node main",
+        "dev": "ls",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
