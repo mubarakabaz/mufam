@@ -1,8 +1,3 @@
-<meta charset="UTF-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>LazulaIot.xyz | Sistem Monitoring Kendali Cerdas</title>
-
 <meta content="" name="description">
 <meta content="mubarakabaz, abdul aziz mubarak, resume, cv, ilmu komputer, unhas, uh, universitas hasanuddin, computer science, fmipa, mipa, matematika, achy" name="keywords">
 
@@ -22,3 +17,4 @@
 <link href="https://cdn.jsdelivr.net/npm/simple-datatables@latest/dist/style.css" rel="stylesheet" />
 <link href="css/styles.css" rel="stylesheet" />
 <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css" crossorigin="anonymous"></script>
+<script src="https://kit.fontawesome.com/a81368914c.js"></script>
