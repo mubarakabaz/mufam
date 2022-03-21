@@ -5,11 +5,16 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login Page | LazulaIot.xyz</title>
+    
+    <!-- Style Login -->
     <link rel="stylesheet" href="assets/css/main.css">
+
+    <?php include('assets/template/attrHead.php') ?>
+
 </head>
 <body>
     <!-- Background Cover -->
-    <img src="assets/img/cover.jpg" alt="" class="bg-cover-img">
+    <img src="assets/img/bg.png" alt="" class="bg-cover-img">
     <div class="container">
         <div class="login-content">
             <form action="">
@@ -19,17 +24,15 @@
                     <i class="fas fa-at"></i>
                     </div>
                     <div class="input">
-                        <h5>Email</h5>
-                        <input type="email" id="emailLogin" class="input">
+                        <input type="email" id="emailLogin" class="input" placeholder="yourname@gmail.com">
                     </div>
                 </div>
                 <div class="input-container password">
                     <div class="icon">
-                    <i class="fas fa-key-skeleton"></i>
+                    <i class="fas fa-lock"></i>
                     </div>
                     <div class="input">
-                        <h5>Password</h5>
-                        <input type="password" id="passwdLogin" class="input">
+                        <input type="password" id="passwdLogin" class="input" placeholder="*********">
                     </div>
                 </div>
 

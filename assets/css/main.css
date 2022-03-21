@@ -5,7 +5,6 @@
 }
 
 body {
-  font-family: "Raleway", sans-serif;
   overflow: hidden;
 }
 
@@ -24,7 +23,7 @@ body {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   grid-gap: 7rem;
-  padding: 0 10rem;
+  padding: 0 15rem;
 }
 
 .daco {
@@ -41,7 +40,7 @@ body {
 }
 
 .daco img {
-  width: 400px;
+  width: 500px;
 }
 
 form {
@@ -89,7 +88,7 @@ form {
   left: 10px;
   top: 50%;
   transform: translateY(-50%);
-  color: #999;
+  color: #c2b870;
   font-size: 18px;
   transition: 0.3s;
 }
@@ -116,7 +115,7 @@ form {
   font-size: 15px;
 }
 .input-container.focus > .i > i {
-  color: #3a77c7;
+  color: #F2C280;
 }
 .input-container > .input > input {
   position: absolute;
@@ -145,7 +144,7 @@ a {
   transition: 0.3s;
 }
 a:hover {
-  color: #3a77c7;
+  color: #F2C280;
 }
 
 .btn-login {
@@ -155,7 +154,7 @@ a:hover {
   border-radius: 25px;
   outline: none;
   border: none;
-  background-image: linear-gradient(to right, #3061a1, #306ab6, #3061a1);
+  background-image: linear-gradient(to right, #F2C280, #f3ba69, #F2C280);
   background-size: 200%;
   font-size: 1.2rem;
   color: #fff;
@@ -171,7 +170,7 @@ a.rth {
 }
 
 .btn:hover {
-  background-position: right;
+  background-position: left;
 }
 
 @media screen and (max-width: 1050px) {
