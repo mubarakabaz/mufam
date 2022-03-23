@@ -8,6 +8,9 @@ body {
   overflow: hidden;
 }
 
+/**==================================
+ *          Component Login
+ * ====================================**/
 .bg-cover-img {
   position: fixed;
   bottom: 0;
