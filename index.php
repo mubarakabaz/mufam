@@ -42,7 +42,7 @@
 
     <div class="container">
       <div class="hero-content">
-        <h1>I'm <span class="typed" data-typed-items="Abdul Aziz Mubarak, Web Developer, Phonegraphy, Blogger"></span>
+        <h1>I'm <span class="typed" data-typed-items="Mubarakabaz, Web Developer, Phonegraphy, Blogger"></span>
         </h1>
         <p>Web Developer, Phonegraphy, Blogger</p>
 
